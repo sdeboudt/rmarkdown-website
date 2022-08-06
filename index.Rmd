@@ -1,0 +1,8 @@
+---
+title: "Shiny Gists"
+---
+
+This site collects Gists for quick lookup during development.
+Eventually, bookdown will better suit these needs.
+
+<script src="https://gist.github.com/sdeboudt/4f7a2910659b8c0b6e1f9afd039fb325.js"></script>
