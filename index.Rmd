@@ -5,4 +5,7 @@ title: "Shiny Gists"
 This site collects Gists for quick lookup during development.
 Eventually, bookdown will better suit these needs.
 
+For running Shiny apps in **showcase** mode, launch the App with `runApp(display.mode = "showcase")`.
+Refer to the documentation [here](https://shiny.rstudio.com/articles/display-modes.html#:~:text=To%20view%20an%20app%20in,mode%20%3D%20%22showcase%22%20%2C%20e.g.&text=Apps%20can%20be%20set%20to,mode%2C%20use%20the%20argument%20display.)
+
 <script src="https://gist.github.com/sdeboudt/4f7a2910659b8c0b6e1f9afd039fb325.js"></script>
